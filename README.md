@@ -494,7 +494,10 @@ public class MainActivity extends AppCompatActivity
 
 ### Project Build : 
 
+
 <img width="1917" height="1078" alt="Screenshot 2026-08-25 082712" src="https://github.com/user-attachments/assets/6501659e-160c-4028-87df-e0b64134b260" />
+
+<img width="1917" height="1078" alt="Screenshot 2026-08-25 092227" src="https://github.com/user-attachments/assets/d9d7f0e5-695a-47e1-ae28-1dbf82d08aa4" />
 
 ### Execution / Detecting :
 
